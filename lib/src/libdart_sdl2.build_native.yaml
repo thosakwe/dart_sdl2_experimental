@@ -1,0 +1,18 @@
+include:
+  - sdl2|lib/src/dart_sdl2.h
+sources:
+  - sdl2|lib/src/dart_sdl2.cc
+  - sdl2|lib/src/init.cc
+  - sdl2|lib/src/pixel_format.cc
+  - sdl2|lib/src/surface.cc
+  - sdl2|lib/src/window.cc
+link:
+  - SDL2
+third_party:
+  sdl2:
+    url: https://www.libsdl.org/release/SDL2-2.0.8.tar.gz
+    md5: 3800d705cef742c6a634f202c37f263f
+    include:
+      - include
+    libraries:
+      - libSDL2.a

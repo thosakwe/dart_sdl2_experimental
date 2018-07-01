@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/.dart_tool/build_native/third_party/sdl2.sdl2/include",
+                "/usr/local/opt/dart/libexec/include"
+            ]
+        }
+    ],
+    "version": 4
+}

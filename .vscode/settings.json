@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "__locale": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "hash_map": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "memory": "cpp",
+        "string": "cpp",
+        "thread": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}
